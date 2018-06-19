@@ -28,3 +28,4 @@ ARCamera里同样也要设置一下，世界中心为自动生成对象下的pri
 以及挂载到ARCamera下的Camera对象的GUI脚本：<br>
 ![](https://github.com/flashowner/ninth3DHomework/blob/master/%E6%88%AA%E5%9B%BE/%E6%8D%95%E8%8E%B710.PNG)<br>
 ![](https://github.com/flashowner/ninth3DHomework/blob/master/%E6%88%AA%E5%9B%BE/%E6%8D%95%E8%8E%B711.PNG)<br>
+视频位置：https://v.youku.com/v_show/id_XMzY3NDI0ODYxMg==.html?spm=a2hzp.8244740.0.0
